@@ -1,0 +1,19 @@
+{
+  "name": "lolpops-sales-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for getting NFT data from OpenSea for the Lolpops collection.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "hiPirate",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsdom": "^16.6.0",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.1"
+  }
+}
