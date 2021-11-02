@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A Discord bot for getting NFT data from OpenSea for the Lolpops collection.",
   "main": "bot.js",
+  "engines": {
+    "node": "15.0.1",
+    "npm": "7.0.3"
+  },
   "scripts": {
     "start": "node bot.js"
   },

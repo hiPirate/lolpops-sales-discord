@@ -1,14 +1,14 @@
 {
-  "name": "NFT Discord Bot",
-  "description": "A Discord bot for getting NFT data from OpenSea",
-  "logo": "https://i.imgur.com/g9c44tp.png",
+  "name": "Lolpop Sales",
+  "description": "A Discord bot for retrieving Bermano's 'King of the Jungle' collection's data from OpenSea.",
+  "logo": "https://i.imgur.com/MaQQdwK.png",
   "keywords": [
     "erc721",
     "nft",
     "discord",
     "opensea"
   ],
-  "repository": "https://github.com/lucid-eleven/nft-discord-bot",
+  "repository": "https://github.com/hiPirate/lolpops-sales-discord",
   "env": {
     "CONTRACT_ADDRESS": {
       "description": "Ethereum address for the NFT Smart Contract",
